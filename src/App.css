@@ -1,0 +1,17 @@
+.abc > li > a {
+  text-decoration: none;
+  color: white;
+  padding: 20px 20px;
+}
+
+nav {
+  background-color: #333;
+}
+
+.modulik {
+  background-color: #d6d6d6;
+}
+
+footer {
+  background-color: #333;
+}

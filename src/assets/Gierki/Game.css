@@ -1,0 +1,15 @@
+.gierki-menu > a {
+  margin: 15px;
+  color: black;
+  text-decoration: none;
+  background-color: #b3b3b3;
+  padding: 10px 15px;
+}
+
+.gierki-menu {
+  margin-bottom: 50px;
+}
+
+.gierki-menu > a:hover {
+  background-color: #c5c4c4;
+}
